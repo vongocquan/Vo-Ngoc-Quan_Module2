@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c23867fb-c1f2-488b-a81f-8b1df93b73f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Task5/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CauTrucDuLieuVaGiaiThuatToan/CacPhuongThucCuaArrList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CauTrucDuLieuVaGiaiThuatToan/TrienKhaiLopLinkedListDonGian/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CauTrucDuLieuVaGiaiThuatToan/TrienKhaiLopListDonGian/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/AdvancedObjectOrientedDesign/InterfaceColorable/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/AdvancedObjectOrientedDesign/InterfaceColorable/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/AdvancedObjectOrientedDesign/InterfaceComparableArray/CircleComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/AdvancedObjectOrientedDesign/InterfaceComparableArray/CircleComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/Services.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/Services.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/Villa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/Villa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task1/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VoNgocQuan_Module2/CaseStudy/Task2/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/InterfaceColorable/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/InterfaceColorable/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Task1/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Task1/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Task1/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Task1/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Task1/Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Task1/Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Task1/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Task1/Villa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Task1/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Task1/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Task2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mang/SuDungLopArrayIndexOutBoundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mang/SuDungLopArrayIndexOutBoundsException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1annUIRL3Zfzd5AlqCJIplie9Pn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.MyList (1)">
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CauTrucDuLieuVaGiaiThuatToan.TrienKhaiLopLinkedListDonGian.MyLinkedList" />
+      <module name="VoNgocQuan_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CauTrucDuLieuVaGiaiThuatToan.TrienKhaiLopLinkedListDonGian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CauTrucDuLieuVaGiaiThuatToan.CacPhuongThucCuaArrList.MyList" />
+      <module name="VoNgocQuan_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CauTrucDuLieuVaGiaiThuatToan.CacPhuongThucCuaArrList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CauTrucDuLieuVaGiaiThuatToan.TrienKhaiLopListDonGian.MyList" />
+      <module name="VoNgocQuan_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CauTrucDuLieuVaGiaiThuatToan.TrienKhaiLopListDonGian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.Task2.Task2" />
+      <module name="VoNgocQuan_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CaseStudy.Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CauTrucDuLieuVaGiaiThuatToan.TrienKhaiLopListDonGian.Test" />
+      <module name="VoNgocQuan_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CauTrucDuLieuVaGiaiThuatToan.TrienKhaiLopListDonGian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyList (1)" />
+        <item itemvalue="Application.MyList" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MyLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c23867fb-c1f2-488b-a81f-8b1df93b73f2" name="Default Changelist" comment="" />
+      <created>1587380240249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587380240249</updated>
+      <workItem from="1587380243341" duration="245000" />
+      <workItem from="1587380517288" duration="67000" />
+      <workItem from="1587385691107" duration="4444000" />
+      <workItem from="1587430120749" duration="266000" />
+      <workItem from="1587430949963" duration="233000" />
+      <workItem from="1587431327859" duration="510000" />
+      <workItem from="1587431947131" duration="49000" />
+      <workItem from="1587434052314" duration="505000" />
+      <workItem from="1587434645492" duration="2092000" />
+      <workItem from="1587437582820" duration="5594000" />
+      <workItem from="1587455392828" duration="2436000" />
+      <workItem from="1587458005303" duration="1400000" />
+      <workItem from="1587470455431" duration="6203000" />
+      <workItem from="1587514483132" duration="15151000" />
+      <workItem from="1587543950800" duration="6052000" />
+      <workItem from="1587604223679" duration="9217000" />
+      <workItem from="1587637615157" duration="1754000" />
+      <workItem from="1587640497195" duration="707000" />
+      <workItem from="1587641356271" duration="1599000" />
+      <workItem from="1587643787183" duration="760000" />
+      <workItem from="1587644772474" duration="487000" />
+      <workItem from="1587645366302" duration="629000" />
+      <workItem from="1587646168945" duration="449000" />
+      <workItem from="1587646752199" duration="1569000" />
+      <workItem from="1587648392187" duration="2045000" />
+      <workItem from="1587650470068" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Notifications" timestamp="1587431348931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587431348931" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1587614096008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587614096008" />
+    <state x="460" y="106" key="FileChooserDialogImpl" timestamp="1587650438420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587650438420" />
+    <state width="1286" height="167" key="GridCell.Tab.0.bottom" timestamp="1587650439247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587650439247" />
+    <state width="1286" height="167" key="GridCell.Tab.0.center" timestamp="1587650439247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587650439247" />
+    <state width="1286" height="167" key="GridCell.Tab.0.left" timestamp="1587650439247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587650439247" />
+    <state width="1286" height="167" key="GridCell.Tab.0.right" timestamp="1587650439247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587650439247" />
+    <state width="1286" height="208" key="GridCell.Tab.1.bottom" timestamp="1587550014000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587550014000" />
+    <state width="1286" height="208" key="GridCell.Tab.1.center" timestamp="1587550014000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587550014000" />
+    <state width="1286" height="208" key="GridCell.Tab.1.left" timestamp="1587550014000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587550014000" />
+    <state width="1286" height="208" key="GridCell.Tab.1.right" timestamp="1587550014000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587550014000" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587637616965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587637616965" />
+    <state x="62" y="0" key="new project wizard" timestamp="1587641203096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="62" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587641203096" />
+  </component>
+</project>
